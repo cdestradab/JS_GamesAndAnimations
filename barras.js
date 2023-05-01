@@ -14,7 +14,7 @@ function escribirTexto(x , y, texto) {
 
     pincel.font="15px Georgia";
     pincel.fillStyle="black";
-    pincel.fillText(texto, x, y);    
+    pincel.fillText(texto, x, y);
 }
 
 function dibujarBarra(x, y, serie, colores, texto) {
